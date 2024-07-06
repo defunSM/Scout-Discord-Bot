@@ -2,7 +2,7 @@
 
 ### Problem Statement
 
-I am busy and don't want to check to be reminded when a free epic game is available and don't want to log in or go to the site to see what the free game is (I know I am lazy). However I am consistently on discord so I can get a reminder from the bot whenever there is a free game so I don't miss out no one likes (FOMO). 
+I am busy and don't want to check when a free epic game is available and don't want to log in or go to the site to see what the free game is (I know I am lazy). However I am consistently on discord so I can get a reminder from the bot whenever there is a free game so I don't miss out no one likes (FOMO). 
 
 The main usage of this discord bot is to remind/display what free game is available on epic games each week.
 
