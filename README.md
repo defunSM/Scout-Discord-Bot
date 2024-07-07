@@ -13,3 +13,25 @@ The approach will be to scrape the game image and display it along with the game
 1. Setting the time of periodic reminders.
 
 2. Include an option to react with thumbs up if already gotten the game so that it doesn't keep repeating.
+
+### Setup
+
+1. Clone the repo into your work environment.
+2. Install the dependencies from the package.json by running the following command. (Make sure npm is installed)
+
+``` bash
+npm install
+```
+3. Create a .env file in the main working directory with the following:
+
+``` bash
+DISCORD_BOT_TOKEN=discord-bot-secret-key
+CLIENT_ID=client-id-key
+GUILD_ID=server-id-you-want-to-run-the-bot-in
+```
+4. Run the command to start the discord bot.
+
+```
+npm start
+```
+
